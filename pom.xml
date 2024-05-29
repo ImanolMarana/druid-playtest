@@ -70,6 +70,8 @@
     </scm>
 
     <properties>
+        <sonar.organization>imanolmarana</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <java.version>8</java.version>
